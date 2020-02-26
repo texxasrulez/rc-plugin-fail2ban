@@ -25,7 +25,7 @@ If your using git, make sure to hit the [rc-Plugin-Fail2Ban's github page][9].
   
 ## Dependencies
 
-[RoundCube][10] 3.0+
+[RoundCube][10] 1.3+
 
 
 ## Installing
